@@ -1,7 +1,7 @@
 # ExpenseTracker
 Control de Gastos - Billetera Virtual 📊💸
 
-##Tecnologías Utilizadas:
+## Tecnologías Utilizadas:
 
 **C#**: El héroe principal en el desarrollo de esta aplicación emocionante.
 
@@ -13,10 +13,10 @@ Control de Gastos - Billetera Virtual 📊💸
 
 **Syncfusion**: Un framework que proporciona controles visuales impresionantes para mejorar la apariencia gráfica de nuestras aplicaciones, incluyendo gráficos interactivos para visualizar el balance de tus transacciones.
 
-##Descripción:
+## Descripción:
 Este emocionante proyecto, conocido como GastoTracker, es una aplicación de billetera virtual desarrollada con C# y ASP.NET MVC, impulsada por el poder de Entity Framework y respaldada por la robustez de SQL Server. ¿El objetivo? Proporcionar a los usuarios una experiencia emocionante y eficaz para controlar sus gastos diarios, transformando la gestión financiera personal en una experiencia intuitiva y ¡divertida! 🚀🌟
 
-##Características Principales:
+## Características Principales:
 
 Registro de Gastos: ¡Registra tus gastos con estilo y facilidad! Categoriza tus compras con emojis para un toque personalizado y análisis detallado. 💳✨
 
