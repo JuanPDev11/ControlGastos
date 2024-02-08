@@ -28,5 +28,5 @@ Reportes Detallados: Genera informes detallados y gráficos visuales que te prop
 
 Gráficos Impresionantes con Syncfusion: La magia de Syncfusion añade gráficos interactivos que muestran el balance de tus transacciones de manera intuitiva. Observa tu progreso financiero con gráficos de torta, barras y líneas que hacen que la gestión financiera sea aún más atractiva. 📉🍰
 
-Autenticación y Seguridad: Descansa tranquilo con nuestro sistema de autenticación seguro. ¡Tu información financiera está a salvo bajo llave! 🔐💼
+
 
